@@ -37,25 +37,20 @@
 
 ## 🌟 프로젝트
 
-### 🔹 [프로젝트명 1](GitHub 링크)
-- 프로젝트 설명 (간략하게)
-- 사용 기술: `기술1`, `기술2`, `기술3`
+### 🔹 [빨간박스](https://github.com/js-HARDESTGAME/HARDESTGAME.git)
+- ‘빨간박스’는 플레이어가 빨간박스를 조작하여 파란색 공(장애물)을 피하고, 모든 노란색 공을 수집한 후 도착 지점에 도달하는 게임
+- 사용 기술: HTML, CSS, JavaScript
 
-### 🔹 [프로젝트명 2](GitHub 링크)
-- 프로젝트 설명 (간략하게)
-- 사용 기술: `기술1`, `기술2`, `기술3`
+### 🔹 [놀라운 화요일](https://github.com/InitialQuizTeam/RealInitialQuiz)
+- 로그인을 통해 영화 초성퀴즈와 노래 제목 맞추기 게임을 경험할 수 있고, 점수가 파일로 저장되어 랭킹을 볼 수 있는 게임
+- 사용 기술: Java
 
-### 🔹 [프로젝트명 3](GitHub 링크)
-- 프로젝트 설명 (간략하게)
-- 사용 기술: `기술1`, `기술2`, `기술3`
+### 🔹 [FoodieTree](https://github.com/SpringProject24/FoodieTree)
+- 기후 변화 대응과 음식 낭비 감소를 위해, 주변 음식점의 할인된 음식 정보를 한곳에 모아 제공하고, 스페셜팩을 통해 랜덤 구성된 음식을 저렴한 가격에 구매할 수 있는 서비스
+- 사용 기술: HTML, CSS, JavaScript, JSP, Spring Boot, Java, MariaDB
 
-### 🔹 [프로젝트명 4](GitHub 링크)
-- 프로젝트 설명 (간략하게)
-- 사용 기술: `기술1`, `기술2`, `기술3`
-
----
-
-## 📫 연락처
-- **이메일**: [이메일 주소]
+### 🔹 [AR해상풍력 발전기 앱](https://github.com/final-sundoproject)
+- 세계적인 자연 보호 경각심 증가와 함께, 한반도 주변 바다에 풍력발전기를 설치한 모습을 증강현실로 보여주는 AR 서비스 앱
+- 사용 기술: Spring Boot, Android Studio, Unity, MySQL, Java
 
 ---
